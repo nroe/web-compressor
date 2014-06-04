@@ -1,0 +1,19 @@
+{
+    "name": "tool",
+    "description": "developer tool",
+    "version": "0.0.1",
+    "author": {
+        "name": "Nroe",
+        "email": "gnroed@gmail.com"
+    },
+    "main": "./index.js",
+    "dependencies": {
+        "fs-finder" : "1.7.4",
+        "sprintf-js" : ">=0.0.7",
+        "mkdirp" : "0.3.5",
+        "arg-parser" : "1.0.1",
+        "moment" : "2.4.0",
+        "sqwish" : "0.2.1",
+        "uglify-js" : "2.4.3"
+    }
+}

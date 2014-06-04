@@ -1,0 +1,6 @@
+{
+    "variables" : {
+        "{$website}" : "http://website",
+        "{$website_images}" : "http://website.image"
+    }
+}
